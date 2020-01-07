@@ -1,8 +1,8 @@
 <?php
 class apps
 {
-    protected $controller = "user";
-    protected $method = "index";
+    protected $controller = "my";
+    protected $method = "dashboard";
     protected $parameter = [];
     public function __construct()
     {
